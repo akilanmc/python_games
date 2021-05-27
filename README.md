@@ -1,1 +1,1 @@
-Repository to hold simple py games
+Contains simple py games in notebook file
